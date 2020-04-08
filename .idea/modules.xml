@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ob-dao/dao.iml" filepath="$PROJECT_DIR$/ob-dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ob.iml" filepath="$PROJECT_DIR$/ob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ob-common/ob-common.iml" filepath="$PROJECT_DIR$/ob-common/ob-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ob-service/ob-service.iml" filepath="$PROJECT_DIR$/ob-service/ob-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ob-serviceimpl/ob-serviceimpl.iml" filepath="$PROJECT_DIR$/ob-serviceimpl/ob-serviceimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ob-web/ob-web.iml" filepath="$PROJECT_DIR$/ob-web/ob-web.iml" />
+    </modules>
+  </component>
+</project>
